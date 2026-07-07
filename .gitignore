@@ -1,8 +1,0 @@
-# Ignore the actual secrets file so credentials don't leak
-secrets.h
-
-# Ignore compiled Arduino build files
-build/
-*.elf
-*.bin
-*.hex
