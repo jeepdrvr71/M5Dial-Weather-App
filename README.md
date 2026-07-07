@@ -10,6 +10,7 @@ A smart, rotary-controlled weather dashboard built for the M5Stack M5Dial.
 
 ## Hardware Required
 * [M5Stack M5Dial](https://docs.m5stack.com/en/core/M5Dial)
+* [USB C Power Supply](https://www.amazon.com/Charger-Adapter-Compatible-Raspberry-Devices/dp/B0FPF3PBGV/ref=sr_1_13?adgrpid=191556522892&dib=eyJ2IjoiMSJ9.MpMHtYnovVaLlQty07hNppZMDpK7nKEUfT2aPyoPRWiOWf1YuLwi1M45Iycl__Yz7LtyFqWsMbhRIt70NgRLvb1vwbewRnH3t-3tZNeb1S07YwGCUw7uGtwkRFpsQ7aXaD0DAcs8GxZZY26YJf-E13KJtI82H3MdjDsknzEWZhPwCOp6VtCtGp1oMTqhmx_PJJniUP0bEl1ppYg2svOMfV37xataL4oVUBEFbEsDUfA.j0nPSdggPNVL9uR2eUyAvgH1_FjUSQRIVUk9VoXTCpU&dib_tag=se&hvadid=779537095428&hvdev=c&hvexpln=0&hvlocphy=1019668&hvnetw=g&hvocijid=12638810370932848464--&hvqmt=e&hvrand=12638810370932848464&hvtargid=kwd-1842224188535&hydadcr=21946_13654678_2283796&keywords=6v+usb+c+charger&mcid=810788ea945c31bab0c83235210f4fb1&qid=1783454876&sr=8-13)
 * USB-C Cable
 
 ## Software Dependencies
